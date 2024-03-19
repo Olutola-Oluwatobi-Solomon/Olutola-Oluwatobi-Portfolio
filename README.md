@@ -1,28 +1,53 @@
-# Olutola-Oluwatobi-Portfolio
-Professional Portfolio About Me
-I am a recent computer science graduate who has a solid background in data science and analytics. I have demonstrated proficiency in building and implementing machine learning algorithms, doing data analysis, and extracting insights from data. My Python, SQL, and Tableau talents, together with my strong communication, teamwork, and problem-solving abilities, make me an invaluable asset to any team.
+## Professional Portfolio
 
-##Education
-Bachelor of Science in Computer Science at Federal University Oye Ekiti, January 2023 (Second Class Upper Division).
-Relevant courses include Data Structures and Algorithms, Machine Learning, Database Systems, and Data Analysis.
+I am a recent computer science graduate with a strong foundation in data science and data analytics. Proven ability to develop and implement machine learning algorithms, conduct data analysis, and generate insights from data. Skilled in Python, SQL, and Tableau. Excellent communication, teamwork, and problem-solving skills. Eager to learn and contribute to a team environment.
 
-##Experience
-Movie Recommendation System (May 2022).
-Created a movie recommendation system employing machine learning methods such as collaborative filtering and content-based filtering.
-Movie data was analysed for patterns and linkages.
-Developed and implemented a web application that suggests films to users based on their watching history and interests.
-Web scraping
-ChatBot Development
+## Education
++Bachelor of Science in Computer Science
+Federal University Oye Ekiti, January 2023
+Second Class Upper Division
+Relevant coursework: Data Structures and Algorithms, Machine Learning, Database Systems, Data Analysis.
+National Youth Service Corp
+2024
+## Experience
+Movie Recommendation System (May 2022)
+Developed a movie recommendation system using machine learning algorithms, including collaborative filtering and content-based filtering.
+Analyzed movie data to identify patterns and relationships.
+Built and deployed a web application that recommends movies to users based on their past viewing history and preferences.
+Web Scraping
+Utilized web scraping techniques to extract data from Reddit, focusing on retrieving post titles, URLs, and comments.
+Saved the extracted data to a CSV file for further analysis and processing.
+Chatbot Development
+Implemented a Rule-Based Chatbot capable of engaging users in conversation, asking random starter questions, and providing appropriate responses based on predefined rules.
+Demonstrated basic functionalities of a chatbot, including response handling, pattern recognition, and conversation flow control.
+
 ## Skills
-Machine Learning Skills
-Programming languages: Python, SQL.
-Data analysis tools include Tableau and Excel.
+
+Programming Languages: Python, SQL
+Data Analysis Tools: Tableau, Excel
 Machine Learning Libraries: scikit-learn, TensorFlow
-Communication: Written and vocal communication abilities.
-Teamwork: The ability to operate effectively in a team setting.
-Strong analytical and problem-solving abilities.
-Time management is the ability to successfully manage time and fulfil deadlines.
+Communication: Written and verbal communication skills
+Teamwork: Ability to work effectively in a team environment
+Problem-solving: Strong analytical and problem-solving skills
+Time Management: Ability to manage time effectively and meet deadlines
 Achievements
-Introduction to Data Science and Artificial Intelligence by Cisco (2024)
-Data Science Professional Data Camp (2023)
-Google Data Analyst Certification Coursera (June 2022).
+Introduction to Data Science and Artificial Intelligence by CISCO (2024)
+Data Science Professional Datacamp (2023)
+Google Data Analyst Certification Coursera (June 2022)
+
+## Projects
+
+Movie Recommendation System
+Description: Developed a movie recommendation system using machine learning algorithms, enabling personalized movie suggestions based on user preferences.
+Outcome: Web application deployed to provide movie recommendations to users.
+Reddit Web Scraping
+Description: Utilized web scraping techniques to extract data from Reddit, focusing on post titles, URLs, and comments.
+Outcome: Extracted data saved to CSV for further analysis and insights.
+Rule-Based Chatbot Development
+Description: Implemented a Rule-Based Chatbot capable of engaging users in conversation and providing responses based on predefined rules.
+Outcome: Demonstrated basic chatbot functionalities and interaction patterns.
+
+## Contact Information
+Email: oluwatobisolomonoluta@gmaul.com
+LinkedIn: [Your LinkedIn Profile]
+GitHub: [Your GitHub Profile]
