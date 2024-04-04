@@ -37,17 +37,17 @@ Google Data Analyst Certification Coursera (June 2022)
 
 ## Projects
 
-Movie Recommendation System
+## Movie Recommendation System
 Description: Developed a movie recommendation system using machine learning algorithms, enabling personalized movie suggestions based on user preferences.
 Outcome: Web application deployed to provide movie recommendations to users.
-Reddit Web Scraping
+## Reddit Web Scraping
 Description: Utilized web scraping techniques to extract data from Reddit, focusing on post titles, URLs, and comments.
 Outcome: Extracted data saved to CSV for further analysis and insights.
-Rule-Based Chatbot Development
+## Rule-Based Chatbot Development
 Description: Implemented a Rule-Based Chatbot capable of engaging users in conversation and providing responses based on predefined rules.
 Outcome: Demonstrated basic chatbot functionalities and interaction patterns.
 
 ## Contact Information
 Email: oluwatobisolomonoluta@gmaul.com
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
+LinkedIn: https://www.linkedin.com/in/oluwatobi-solomon-olutola
+
